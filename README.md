@@ -2,6 +2,14 @@
 
 A full-stack web application designed to help you effortlessly track your daily expenses, manage monthly budgets, and visualize your spending habits over time.
 
+## 📸 Screenshots
+
+| Dashboard | Expenses |
+| :---: | :---: |
+| ![Dashboard](screenshots/dashboard.png) | ![Expenses](screenshots/expenses.png) |
+| **Settings** | |
+| ![Settings](screenshots/settings.png) | |
+
 ## 🌟 Features
 
 *   **📊 Visual Dashboard:** Interactive bar charts and data tables to analyze daily and monthly spending trends (powered by Recharts).
